@@ -1,6 +1,5 @@
 # Sciame
 A project curated by Maddalena Bellin, Chiara Alexandra Young
-Elementi d'informatica per il design – Elaborato esame Riboli 2020/2021 ISIA U
 
 The project aims to make visible and concrete what an oral tradition couldn’t easily document.
 Realized through the development of glitches with Resolume Arena, the distortion of images becomes a metaphor for both the alteration of consciousness and memory. The oral handing down of shamanic songs fragments and pulverizes, breaks down and reassembles, taking on new meanings as the song changes.
@@ -9,4 +8,6 @@ The unstable surfaces, created using TouchDesigner, were produced following the 
 
 The visual sources have been taken from the American Museum of National History's online archive, from Jesup North Pacific Expedition (1897––1902) collection. These images have been combined with TranceSiberian, Hulu Project featuring Sepanida Borisova (2001), music from Sakha (Yakutia) that combines native indigenous traditions and globalization.
 
+Elementi d'informatica per il design – Elaborato esame Davide Riboli 2020/2021 
+ISIA U
 credits: https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
