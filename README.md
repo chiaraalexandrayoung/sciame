@@ -7,3 +7,5 @@ As catalyst of imaginary experiences in an introspective space, the sound direct
 The unstable surfaces, created using TouchDesigner, were produced following the study of these dances, inspired by the movement of snow and dust as a metaphor for mobility and restlessness. The presence of this component is constant throughout the book and is aimed at emphasizing the concept of nomadism, which characterizes the tribes concerned.
 
 A project curated by Maddalena Bellin, Chiara Alexandra Young
+
+credits: https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
