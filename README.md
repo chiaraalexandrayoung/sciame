@@ -1,5 +1,5 @@
 # Sciame
-Elementi d'informatica per il design – Elaborato esame Riboli 2020/2021
+Elementi d'informatica per il design – Elaborato esame Riboli 2020/2021 ISIA U
 
 The project aims to make visible and concrete what an oral tradition couldn’t easily document.
 Realized through the development of glitches with Resolume Arena, the distortion of images becomes a metaphor for both the alteration of consciousness and memory. The oral handing down of shamanic songs fragments and pulverizes, breaks down and reassembles, taking on new meanings as the song changes.
