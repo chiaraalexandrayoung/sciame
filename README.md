@@ -1,4 +1,5 @@
 # Sciame
+A project curated by Maddalena Bellin, Chiara Alexandra Young
 Elementi d'informatica per il design – Elaborato esame Riboli 2020/2021 ISIA U
 
 The project aims to make visible and concrete what an oral tradition couldn’t easily document.
@@ -7,7 +8,5 @@ As catalyst of imaginary experiences in an introspective space, the sound direct
 The unstable surfaces, created using TouchDesigner, were produced following the study of these dances, inspired by the movement of snow and dust as a metaphor for mobility and restlessness. The presence of this component is constant throughout the book and is aimed at emphasizing the concept of nomadism, which characterizes the tribes concerned.
 
 The visual sources have been taken from the American Museum of National History's online archive, from Jesup North Pacific Expedition (1897––1902) collection. These images have been combined with TranceSiberian, Hulu Project featuring Sepanida Borisova (2001), music from Sakha (Yakutia) that combines native indigenous traditions and globalization.
-
-A project curated by Maddalena Bellin, Chiara Alexandra Young
 
 credits: https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
