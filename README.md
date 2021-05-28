@@ -1,5 +1,5 @@
 # Sciame
-Visual audioreactive investigation on Siberian shamanism
+Visual audioreactive investigation on Siberian shamanism.
 
 A project curated by Chiara Alexandra Young and Maddalena Bellin
 
