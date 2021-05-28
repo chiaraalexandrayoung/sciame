@@ -1,5 +1,7 @@
 # Sciame
 Visual audioreactive investigation on Siberian shamanism
+
+
 A project curated by Chiara Alexandra Young and Maddalena Bellin
 
 The project aims to make visible and concrete what an oral tradition couldn’t easily document.
@@ -11,4 +13,6 @@ The visual sources have been taken from the American Museum of National History'
 
 Elementi d'informatica per il design – Elaborato esame Davide Riboli 2020/2021 
 ISIA U
+
+
 credits: https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
