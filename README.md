@@ -1,7 +1,6 @@
 # Sciame
 Visual audioreactive investigation on Siberian shamanism
 
-
 A project curated by Chiara Alexandra Young and Maddalena Bellin
 
 The project aims to make visible and concrete what an oral tradition couldn’t easily document.
