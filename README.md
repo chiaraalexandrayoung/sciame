@@ -14,4 +14,6 @@ Elementi d'informatica per il design – Elaborato esame Davide Riboli 2020/2021
 ISIA U
 
 
-credits: https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
+credits: 
+https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
+https://images.library.amnh.org/digital/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Jesup+North+Pacific+Expedition+%281897-1902%29
