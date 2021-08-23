@@ -16,4 +16,4 @@ ISIA U
 
 credits: 
 https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
-https://images.library.amnh.org/digital/items/browse?advanced%5B0%5D%5Belement_id%5D=49&advanced%5B0%5D%5Btype%5D=is+exactly&advanced%5B0%5D%5Bterms%5D=Jesup+North+Pacific+Expedition+%281897-1902%29
+https://images.library.amnh.org/digital/items/browse?collection=3
