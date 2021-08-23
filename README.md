@@ -14,6 +14,6 @@ Elementi d'informatica per il design – Elaborato esame Davide Riboli 2020/2021
 ISIA U
 
 
-credits: 
+Credits: 
 https://alltd.org/audioreactive-particle-cloud-touchdesigner-tutorial-10/
 https://images.library.amnh.org/digital/items/browse?collection=3
